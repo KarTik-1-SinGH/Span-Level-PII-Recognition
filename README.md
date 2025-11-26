@@ -166,7 +166,7 @@ data/
  ├─ stress.jsonl
  ├─ train_synth.jsonl      (generated)
  ├─ dev_synth.jsonl        (generated)
-generate_synthetic_data.py
+data_generator.py
 out/ (model + predictions)
 requirements.txt
 README.md
@@ -190,12 +190,10 @@ README.md
 ## 👤 Author
 
 Kartik Singh
-IIT Bombay — DSAI
+
 
 ```
 
 ---
 
-Ready to paste into GitHub as-is.  
-If you'd like, I can also generate a **Loom video narration script** next.
 ```
