@@ -1,8 +1,3 @@
-Here is the **full README.md in one single copy-paste block**, no interruptions 👇
-
----
-
-```md
 # STT-PII Shield
 
 A span-level Named Entity Recognition (NER) system designed to detect Personally Identifiable Information (PII) from **noisy speech-to-text (STT) transcripts**.  
